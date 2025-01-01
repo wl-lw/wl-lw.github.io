@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["65KPZ9MN2F.com.wldevstudio.app.SpendingTrackingTest"],
+        "components": [
+          {
+            "/": "/plaid/*",
+            "comment": "Matches any URL path whose path starts with /plaid/"
+          }
+        ]
+      }
+    ]
+  }
+}
