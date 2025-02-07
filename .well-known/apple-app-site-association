@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["65KPZ9MN2F.com.wldevstudio.app.SpendingTrackingTest"],
+        "appIDs": ["65KPZ9MN2F.com.wldevstudio.app.SpendTracker"],
         "components": [
           {
             "/": "/plaid/*",
